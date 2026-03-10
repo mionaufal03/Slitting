@@ -1,0 +1,48 @@
+Array
+(
+    [action] => start_and_complete_recoiling
+    [id] => 1
+    [cut_type] => cut_into_2
+    [new_width] => Array
+        (
+            [0] => 123
+            [1] => 123
+        )
+
+    [roll_number] => Array
+        (
+            [0] => 1
+            [1] => 1
+        )
+
+    [length] => Array
+        (
+            [0] => 197
+            [1] => 197
+        )
+
+    [letter] => Array
+        (
+            [0] => a
+            [1] => 
+        )
+
+    [defect] => Array
+        (
+            [0] => 5
+            [1] => 0
+        )
+
+    [remark] => Array
+        (
+            [0] => dent
+            [1] => 
+        )
+
+    [actual_length] => Array
+        (
+            [0] => 100
+            [1] => 92.00
+        )
+
+)
